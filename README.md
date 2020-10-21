@@ -1,19 +1,17 @@
 # Python-programming
 This is the repository to learn python programming language
 
-# Course details
-2h 30m  Beginner  Released: 1/30/2018
+## Course details
+5h 1m  Intermediate  Released: 10/1/2019
 
-# Python—the popular and highly readable object-oriented language—is both powerful and relatively easy to learn. 
-
-Whether you're new to programming or an experienced developer, this course can help you get started with Python. Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse HTML, JSON, and XML data from the web.
+Looking to build your own personal or professional web application? In this course, join Christian Hur as he steps through how to build dynamic web apps using Python and Flask, the popular Python web framework. After demonstrating how to set up your environment, Christian shows how to create a Flask project, work with templates, and set up and configure a database system for your app—in this case, Flask-MongoEngine—to help store and track data. Plus, see how to work with web forms; integrate Flask-Security, which allows you to add common security mechanisms; and create and test REST APIs using Postman.
 
 Learning objectives
-Installing Python
-Choosing an editor or IDE
-Working with variables and expressions
-Writing loops
-Using the date, time, and datetime classes
-Reading and writing files
-Fetching internet data
-Parsing and processing HTML
+Creating and running a simple Flask app
+Creating a Flask project
+Working with templates
+Setting up and connecting to a database
+Working with Flask-Security
+Creating and testing REST APIs with Postman
+Skills covered in this course
+Python (Programming Language)Web Application DevelopmentFlaskBack-End Web Development
