@@ -15,3 +15,5 @@ Looking to build your own personal or professional web application? In this cour
 - Creating and testing REST APIs with Postman
 - Skills covered in this course
 - Python (Programming Language)Web Application DevelopmentFlaskBack-End Web Development
+
+# Adding HackerRank Exercises: 
