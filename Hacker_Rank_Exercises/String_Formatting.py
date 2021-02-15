@@ -18,7 +18,7 @@
 #
 # Print  lines where each line  (in the range ) contains the respective decimal, octal, capitalized hexadecimal, and binary values of . Each printed value must be formatted to the width of the binary value of .
 #
-# Sample Input
+# Sample Input provided
 #
 # 17
 # Sample Output
