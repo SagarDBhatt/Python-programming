@@ -69,19 +69,38 @@
 #     if sub.startswith(("A", "E", "I", "O", "U")):
 #         Score_Kevin += 1
 #
-#     elif Score_Kevin == Score_Stuart:
-#         print("Draw")
-#
 #     else:
 #         Score_Stuart += 1
 #
 #
 # if Score_Kevin > Score_Stuart:
 #     print("Kevin ", Score_Kevin)
-#
+
+# elif Score_Kevin == Score_Stuart:
+#         print("Draw")
 # else:
 #     print("Stuart ", Score_Stuart)
 
 # =====================================================================
-    ANOTHER APPROACH
+#     ANOTHER APPROACH
 # =====================================================================
+
+ipStr = input("Enter String: ")
+Score_Stuart = 0
+Score_Kevin = 0
+
+for sub in range(len(ipStr)):
+    if ipStr[sub] in ("A", "E", "I", "O", "U"):
+        Score_Kevin += len(ipStr) - sub
+    else:
+        Score_Stuart += len(ipStr) - sub
+
+
+if Score_Kevin > Score_Stuart:
+    print("Kevin ", Score_Kevin)
+
+elif Score_Kevin == Score_Stuart:
+    print("Draw")
+
+else:
+    print("Stuart ", Score_Stuart)
