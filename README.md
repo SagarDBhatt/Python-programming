@@ -17,3 +17,5 @@ Looking to build your own personal or professional web application? In this cour
 - Python (Programming Language)Web Application DevelopmentFlaskBack-End Web Development
 
 # Adding HackerRank Exercises: 
+
+Exercise 1 commited. 
