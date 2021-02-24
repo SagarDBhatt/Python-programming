@@ -19,3 +19,4 @@ Looking to build your own personal or professional web application? In this cour
 # Adding HackerRank Exercises: 
 
 Exercise 1 commited. 
+Exercise 2 commited. 
