@@ -68,3 +68,21 @@
 # Customer 6: Size 10 not available, so no purchase.
 #
 # Total money earned =  200
+from collections import Counter
+
+Number_Of_Shoes = int(input())
+Shoes_Size_List = map(int, input().split())
+Number_Of_Customers = int(input())
+Shoe_Counter = Counter(Shoes_Size_List)
+# print("Shoe Counter = ", Shoe_Counter)
+
+customer_bill = 0
+
+for i in range(Number_Of_Customers):
+    Shoe_size, price = map(int, input().split())
+    if Shoe_Counter[Shoe_size]:
+        customer_bill += price
+        Shoe_Counter[Shoe_size] -= 1
+
+
+print(customer_bill)
