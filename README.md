@@ -20,3 +20,6 @@ Looking to build your own personal or professional web application? In this cour
 
 Exercise 1 commited. 
 Exercise 2 commited. 
+
+----------------------------------------------------------------------------------------------------
+Ex 3 - collections.Counter(). counter is a container that stores elements as dictionary keys, and their counts are stored as dictionary values.
