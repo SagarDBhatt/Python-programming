@@ -23,3 +23,5 @@ Exercise 2 commited.
 
 ----------------------------------------------------------------------------------------------------
 Ex 3 - collections.Counter(). counter is a container that stores elements as dictionary keys, and their counts are stored as dictionary values.
+
+* Solution code committed. 
