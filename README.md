@@ -33,3 +33,7 @@ Ex - 4 permutations on iterable: Solution code committed.
 --------------------------------------------------------
 
 Ex.5 : Polar coordinates are an alternative way of representing Cartesian coordinates or Complex Numbers. Complex numbers, radius, phase ect. 
+
+--------------------------------------------------------------
+
+Ex: 6 - Basics of set data structure commited. 
