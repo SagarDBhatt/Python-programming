@@ -37,3 +37,7 @@ Ex.5 : Polar coordinates are an alternative way of representing Cartesian coordi
 --------------------------------------------------------------
 
 Ex: 6 - Basics of set data structure commited. 
+
+------------------------------------------------------------
+
+Ex:7 - Default Dictionary exercise and explanation
