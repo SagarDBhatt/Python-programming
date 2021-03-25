@@ -41,3 +41,7 @@ Ex: 6 - Basics of set data structure commited.
 ------------------------------------------------------------
 
 Ex:7 - Default Dictionary exercise and explanation
+
+-------------------------------------------------------------
+
+Ex:8 - calendar module implemented 
