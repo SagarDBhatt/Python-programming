@@ -45,3 +45,7 @@ Ex:7 - Default Dictionary exercise and explanation
 -------------------------------------------------------------
 
 Ex:8 - calendar module implemented 
+
+-------------------------------------------------------------
+
+Ex:9 - Catch Exceptions exercise commited
