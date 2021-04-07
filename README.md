@@ -49,3 +49,9 @@ Ex:8 - calendar module implemented
 -------------------------------------------------------------
 
 Ex:9 - Catch Exceptions exercise commited
+
+
+-------------------------------------------------------------
+
+Ex:10 - Regex errors and exceptions exercise commited. 
+
