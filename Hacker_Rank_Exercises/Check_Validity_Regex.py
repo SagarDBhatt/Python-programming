@@ -1,12 +1,15 @@
-import re
+# import re
+#
+# testCases = int(input())
+#
+# for _ in range(testCases):
+#     try:
+#         print(bool(re.compile(input())))
+#
+#     except re.error:
+#         print("False")
 
-testCases = int(input())
+# print(*[1,3])
 
-for _ in range(testCases):
-    try:
-        print(bool(re.compile(input())))
-
-    except re.error:
-        print("False")
 
 
