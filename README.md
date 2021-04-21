@@ -58,3 +58,7 @@ Ex:10 - Regex errors and exceptions exercise commited.
 -------------------------------------------------------------
 
 Ex:10 - Reduce() and fractions exercise commited
+
+-------------------------------------------------------------
+
+Ex:11 : namedTuple() exercise commited. 
