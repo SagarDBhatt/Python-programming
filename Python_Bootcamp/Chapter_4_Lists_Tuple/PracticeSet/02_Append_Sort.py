@@ -5,6 +5,14 @@ def sortedMarks(lst):
     print(lst)
 
 
+def sumOfList(ls):
+    add = 0
+    for x in ls:
+        add += x
+
+    print("Sum of list == ", add)
+
+
 if __name__ == '__main__':
     ls = []
 
@@ -20,3 +28,4 @@ if __name__ == '__main__':
         ls.append(val)
 
     sortedMarks(ls)
+    sumOfList(ls)
