@@ -3,7 +3,7 @@
 initSet = set()
 
 for i in range(0, 8):
-    num = input("enter number == ")
+    num = int(input("enter number == \n"))
     initSet.add(num)
 
 print(initSet)
