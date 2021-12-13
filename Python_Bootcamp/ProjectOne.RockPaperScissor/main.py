@@ -17,29 +17,29 @@ def getWinner(p1, p2):
             p1_winner_flag = True
 
     if p1_winner_flag:
-        print("Player 1 is winner and selected " + p1)
+        print("Computer is winner and selected " + p1)
 
     else:
-        print("Player 2 is winner and selected " + p2)
+        print("You are a winner and selected " + p2)
 
 
 if __name__ == '__main__':
-    # player1 = input("Select Rock Or Paper Or Scissor for player 1 = ")
+    # computer = input("Select Rock Or Paper Or Scissor for player 1 = ")
     # player2 = input("Select Rock Or Paper Or Scissor for player 2 = ")
 
-    player1 = ls_options[random.randint(0, 2)]
-    player2 = ls_options[random.randint(0, 2)]
+    computer = ls_options[random.randint(0, 2)]
+    player2 = ls_options[int(input("Please select Rock (0), Paper(1) or Scissor(2) = \n"))]
 
     try:
-        if player1 != player2:
-            print("Player 1 selected = " + player1)
-            print("Player 2 selected = " + player2)
-            getWinner(player1, player2)
+        if computer != player2:
+            print("Computer selected = " + computer)
+            print("You selected = " + player2)
+            getWinner(computer, player2)
 
-        elif player1 == player2:
-            print("Player 1 selected = " + player1)
-            print("Player 2 selected = " + player2)
-            print("Both players selected the same!! No winner for this round!")
+        elif computer == player2:
+            print("Computer selected = " + computer)
+            print("You selected = " + player2)
+            print("Both computer and you selected the same!! No winner for this round!")
 
         else:
             raise Exception
